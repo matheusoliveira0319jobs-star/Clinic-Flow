@@ -3,7 +3,7 @@
 
 O clinic flow e um sistema desenvolvido para auxiliar clinas odontologicas, na gestão do consultorio facilitando a organização dos atendimentos e processos adiministrativos
 
-!{telainicial}(IMG_1713.JPEG)
+![telainicial](IMG_1713.JPEG)
 
 ## Funcionalidades
 - Agendadamento de consultas
