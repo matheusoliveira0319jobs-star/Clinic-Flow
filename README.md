@@ -20,3 +20,4 @@ Proximos passos
 -Lovable
 -SuperBase com front end e back end
 
+!{telainicial}(IMG_1713)
